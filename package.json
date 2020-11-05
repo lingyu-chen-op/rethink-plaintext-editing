@@ -4,12 +4,17 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@uiw/react-markdown-preview": "^1.0.9",
+    "@uiw/react-md-editor": "^1.14.5",
     "@zeit/next-css": "^1.0.1",
     "classnames": "^2.2.6",
+    "easymde": "^2.12.1",
     "lodash": "^4.17.19",
     "next": "^9.5.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-contenteditable": "^3.3.5",
+    "react-dom": "^16.13.1",
+    "react-markdown": "^5.0.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
